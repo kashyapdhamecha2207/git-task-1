@@ -1,7 +1,7 @@
 ### **Part 1: Git Basics**
 
 #### **Task 1: Install and Configure Git**
-1. Install Git from git-scm.com.
+1. Install Git from [git-scm.com](https://git-scm.com/).
 2. Configure your global Git settings.
     ```bash
     git config --global user.name "Your Name"
