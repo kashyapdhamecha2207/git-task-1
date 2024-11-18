@@ -190,7 +190,7 @@
 ---
 
 
-## **Part 6: Collaboration 
+## **Part 6: Collaboration**
 ### **Task 16: Forking and Pull Request**
 1. Fork a repository and clone it locally:
     ```bash
