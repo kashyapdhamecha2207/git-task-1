@@ -206,7 +206,7 @@
     - **Explanation**: Deletes the branch if it hasn't been merged.
 
 ---
-## **Consolidated Flow Summary
+## **Consolidated Flow Summary**
 1. Start by creating and cloning repositories.
 2. Learn to commit changes effectively with clear messages.
 3. Explore commit history using various git log commands.
